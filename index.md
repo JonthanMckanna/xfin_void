@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/90731782/159071736-c564e858-3f02-4ed8-947b-e734a9b42293.png)
 
-You can use the [editor on GitHub](https://github.com/JonthanMckanna/xfin_void/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to xfin_viod's website!
+This is my website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[My sratch profile](https://scratch.mit.edu/users/xfin_void/)
 
-### Markdown
+Made by [@Jonathan_Mckanna](https://scratch.mit.edu/users/Jonathan_Mckanna/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
+Hello i do games mainly fnf because i have no ideas
+gender-Male
+iq-1
+Most viewed Project- FNF (XFIN MOD REMASTERED)
+Oldeset Project FNF with me (has been unshared)
 
-```markdown
-Syntax highlighted code block
+### What I'm working on
+i like being lazy... jk i make projects i like fnf platformers making stuff basiclly
 
-# Header 1
-## Header 2
-### Header 3
+i do dumb dumb animations and etc......
+### Featured Project
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/90731782/159073020-c15e60d1-22a8-416c-8e62-fad94057307d.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[Termenation](https://scratch.mit.edu/projects/630696723/)
 
-[Link](url) and ![Image](src)
-```
+### Some of my Favorites
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![image](https://user-images.githubusercontent.com/90731782/159073196-1d3105c2-f867-475c-b76b-56d28edd680f.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonthanMckanna/xfin_void/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[BF but what](https://scratch.mit.edu/projects/647620572/)
 
-### Support or Contact
+by [malachi63746](https://scratch.mit.edu/users/malachi63746)
+### __________________
+![image](https://user-images.githubusercontent.com/90731782/159073544-c93ed05f-328c-4c35-bd50-10eecb9c88a7.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[Friday Night Funkin Simulator V.7](https://scratch.mit.edu/projects/603279667/)
+
+by [pro_aga](https://scratch.mit.edu/users/pro_aga)
+### __________________
+![image](https://user-images.githubusercontent.com/90731782/159074199-9ae67ca3-2e00-4440-92dc-b0439c958f7d.png)
+
+
+[Scratch's Smooth Saturday: REPORT MEGA COLLAB](https://scratch.mit.edu/projects/654863649/)
+
+by [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff)
