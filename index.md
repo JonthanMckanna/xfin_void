@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/90731782/159071736-c564e858-3f02-4ed8-947b-e734a9b42293.png)
 
-### Welcome to xfin_viod's website!
+### Welcome to xfin_void's website!
 This is my website!
 
 [My sratch profile](https://scratch.mit.edu/users/xfin_void/)
